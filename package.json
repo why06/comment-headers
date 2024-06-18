@@ -198,6 +198,14 @@
                     "path": "./snippets/js-style-double.code-snippets"
                },
                {
+                    "language": "odin",
+                    "path": "./snippets/js-style-single.code-snippets"
+               },
+               {
+                    "language": "odin",
+                    "path": "./snippets/js-style-double.code-snippets"
+               },
+               {
                     "language": "php",
                     "path": "./snippets/js-style-single.code-snippets"
                },
